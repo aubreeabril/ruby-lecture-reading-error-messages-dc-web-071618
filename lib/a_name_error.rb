@@ -1,3 +1,3 @@
-input = "hello world"
+"hello world"
 
-hello_world
+input = "hello_world"
